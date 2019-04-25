@@ -1,2 +1,2 @@
 # ss_js_elementary
-JS tasks for coarse
+JS tasks for course
